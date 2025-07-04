@@ -40,11 +40,11 @@ At the end of the `README.md` in the `main` branch, you’ll find the **📚 Cha
 
 Sample navigation structure:
 
-| Chapter                              | Link to English content                                                                              |
-| ------------------------------------ | ---------------------------------------------------------------------------------------------------- |
-| 01 - Linux Directory Structure       | [📘 `01-fhs`](https://github.com/AntonioJavaDeveloper/linux/blob/01-fhs/README.md)                   |
-| 02 - System Boot Process             | [📘 `02-boot-process`](https://github.com/AntonioJavaDeveloper/linux/blob/02-boot-process/README.md) |
-| 03 - Service Management with systemd | [📘 `03-systemd`](https://github.com/AntonioJavaDeveloper/linux/blob/03-systemd/README.md)           |
+| Chapter                                      | Link to English content                                                                                          |
+|----------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| 00 - Linux Fundamentals: Kernel and Distros  | [📘 `00-linux-fundamentals`](https://github.com/AntonioJavaDeveloper/linux/blob/00-linux-fundamentals/README.md) |
+| 01 - Linux Directory Structure               | [📘 `01-fhs`](https://github.com/AntonioJavaDeveloper/linux/blob/01-fhs/README.md)                               |
+| 02 - System Boot Process                     | [📘 `02-boot-process`](https://github.com/AntonioJavaDeveloper/linux/blob/02-boot-process/README.md)             |
 
 > 💡 The table above provides a summary of available chapters. To access any chapter, just click the corresponding link — you’ll be redirected to the specific branch on GitHub without needing to clone the repository or use Git commands.
 
@@ -54,11 +54,12 @@ Sample navigation structure:
 
 ## 📚 Chapter Catalog
 
-| Chapter                              | Link to English content                                                                              |
-| ------------------------------------ | ---------------------------------------------------------------------------------------------------- |
-| 01 - Linux Directory Structure       | [📘 `01-fhs`](https://github.com/AntonioJavaDeveloper/linux/blob/01-fhs/README.md)                   |
-| 02 - System Boot Process             | [📘 `02-boot-process`](https://github.com/AntonioJavaDeveloper/linux/blob/02-boot-process/README.md) |
-| 03 - Service Management with systemd | [📘 `03-systemd`](https://github.com/AntonioJavaDeveloper/linux/blob/03-systemd/README.md)           |
+| Chapter                                     | Link to English content                                                                                          |
+|---------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| 00 - Linux Fundamentals: Kernel and Distros | [📘 `00-linux-fundamentals`](https://github.com/AntonioJavaDeveloper/linux/blob/00-linux-fundamentals/README.md) |
+| 01 - Linux Directory Structure              | [📘 `01-fhs`](https://github.com/AntonioJavaDeveloper/linux/blob/01-fhs/README.md)                               |
+| 02 - System Boot Process                    | [📘 `02-boot-process`](https://github.com/AntonioJavaDeveloper/linux/blob/02-boot-process/README.md)             |
+| 03 - Service Management with systemd        | [📘 `03-systemd`](https://github.com/AntonioJavaDeveloper/linux/blob/03-systemd/README.md)                       |
 
 ---
 
@@ -72,7 +73,7 @@ Feel free to open *issues* with suggestions, corrections, or questions. This rep
 
 ## 🔗 Quick Navigation
 
-➡️ [Go to `01 - Linux Directory Structure`](https://github.com/AntonioJavaDeveloper/linux/blob/01-fhs/README.md)
+➡️ [Go to `00 - Linux Fundamentals: Kernel and Distros`](https://github.com/AntonioJavaDeveloper/linux/blob/00-linux-fundamentals/README.md)
 
 ---
 

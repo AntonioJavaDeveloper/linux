@@ -43,11 +43,12 @@ Ao final do `README.pt-BR.md` da branch `main`, você encontrará a seção **�
 
 Exemplo de estrutura de navegação:
 
-| Capítulo                                   | Link para o conteúdo em português                                                                          |
-|--------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| 01 - Estrutura de Diretórios do Linux      | [📘 `01-fhs`](https://github.com/AntonioJavaDeveloper/linux/blob/01-fhs/README.pt-BR.md)                   |
-| 02 - Inicialização do Sistema (Boot)       | [📘 `02-boot-process`](https://github.com/AntonioJavaDeveloper/linux/blob/02-boot-process/README.pt-BR.md) |
-| 03 - Gerenciamento de Serviços com systemd | [📘 `03-systemd`](https://github.com/AntonioJavaDeveloper/linux/blob/03-systemd/README.pt-BR.md)           |
+| Capítulo                                          | Link para o conteúdo em português                                                                                      |
+|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| 00 - Fundamentos do Linux: Kernel e Distribuições | [📘 `00-linux-fundamentals`](https://github.com/AntonioJavaDeveloper/linux/blob/00-linux-fundamentals/README.pt-BR.md) |
+| 01 - Estrutura de Diretórios do Linux             | [📘 `01-fhs`](https://github.com/AntonioJavaDeveloper/linux/blob/01-fhs/README.pt-BR.md)                               |
+| 02 - Inicialização do Sistema (Boot)              | [📘 `02-boot-process`](https://github.com/AntonioJavaDeveloper/linux/blob/02-boot-process/README.pt-BR.md)             |
+
 
 
 > 💡 A tabela acima apresenta um resumo dos capítulos disponíveis. Para acessar qualquer capítulo, basta clicar no link correspondente — você será direcionado diretamente para o conteúdo da branch específica no GitHub, sem necessidade de clonar ou utilizar comandos Git.
@@ -58,11 +59,12 @@ Exemplo de estrutura de navegação:
 
 ## 📚 Catálogo de Capítulos
 
-| Capítulo                                   | Link para o conteúdo em português                                                                          |
-|--------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| 01 - Estrutura de Diretórios do Linux      | [📘 `01-fhs`](https://github.com/AntonioJavaDeveloper/linux/blob/01-fhs/README.pt-BR.md)                   |
-| 02 - Inicialização do Sistema (Boot)       | [📘 `02-boot-process`](https://github.com/AntonioJavaDeveloper/linux/blob/02-boot-process/README.pt-BR.md) |
-| 03 - Gerenciamento de Serviços com systemd | [📘 `03-systemd`](https://github.com/AntonioJavaDeveloper/linux/blob/03-systemd/README.pt-BR.md)           |
+| Capítulo                                          | Link para o conteúdo em português                                                                                      |
+|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| 00 - Fundamentos do Linux: Kernel e Distribuições | [📘 `00-linux-fundamentals`](https://github.com/AntonioJavaDeveloper/linux/blob/00-linux-fundamentals/README.pt-BR.md) |
+| 01 - Estrutura de Diretórios do Linux             | [📘 `01-fhs`](https://github.com/AntonioJavaDeveloper/linux/blob/01-fhs/README.pt-BR.md)                               |
+| 02 - Inicialização do Sistema (Boot)              | [📘 `02-boot-process`](https://github.com/AntonioJavaDeveloper/linux/blob/02-boot-process/README.pt-BR.md)             |
+| 03 - Gerenciamento de Serviços com systemd        | [📘 `03-systemd`](https://github.com/AntonioJavaDeveloper/linux/blob/03-systemd/README.pt-BR.md)                       |
 
 ---
 
@@ -76,7 +78,7 @@ Sinta-se à vontade para abrir *issues* com sugestões, correções ou dúvidas.
 
 ## 🔗 Navegação Rápida
 
-➡️ [Avançar para `01 - Estrutura de Diretórios do Linux`](https://github.com/AntonioJavaDeveloper/linux/blob/01-fhs/README.pt-BR.md)
+➡️ [Avançar para `00 - Fundamentos do Linux: Kernel e Distribuições`](https://github.com/AntonioJavaDeveloper/linux/blob/00-linux-fundamentals/README.pt-BR.md)
 
 ---
 
